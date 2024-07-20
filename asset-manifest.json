@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/indianpublicschool/static/css/main.e1613da6.css",
-    "main.js": "/indianpublicschool/static/js/main.cd2a872a.js",
+    "main.js": "/indianpublicschool/static/js/main.1fbc3473.js",
     "static/js/453.99dcf01f.chunk.js": "/indianpublicschool/static/js/453.99dcf01f.chunk.js",
     "static/media/img5.jpg": "/indianpublicschool/static/media/img5.ff36451466b1ea2d0f3a.jpg",
     "static/media/Innovative-Teaching.jpg": "/indianpublicschool/static/media/Innovative-Teaching.474f7f661c43b24ae1fe.jpg",
@@ -42,11 +42,11 @@
     "static/media/micro.png": "/indianpublicschool/static/media/micro.901fb3388a2cda24147e.png",
     "index.html": "/indianpublicschool/index.html",
     "main.e1613da6.css.map": "/indianpublicschool/static/css/main.e1613da6.css.map",
-    "main.cd2a872a.js.map": "/indianpublicschool/static/js/main.cd2a872a.js.map",
+    "main.1fbc3473.js.map": "/indianpublicschool/static/js/main.1fbc3473.js.map",
     "453.99dcf01f.chunk.js.map": "/indianpublicschool/static/js/453.99dcf01f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e1613da6.css",
-    "static/js/main.cd2a872a.js"
+    "static/js/main.1fbc3473.js"
   ]
 }
