@@ -1,0 +1,50 @@
+.Address,
+.Education-fees,
+.FamilyDetails,
+.PersonalDetails {
+    padding: 15px;
+    /* margin: 15px; */
+    border-radius: 10px;
+
+}
+
+Form>hr {
+    margin-left: 15px;
+    margin-right: 15px;
+
+}
+
+.Education-fees,
+.Address {
+    background-color: #9e9e9e;
+
+}
+
+.PersonalDetails,
+.FamilyDetails {
+    background-color: rgb(187, 185, 183);
+}
+
+.loaderScreen {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.8);
+    /* Semi-transparent background */
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+    /* Ensure the loader stays on top */
+}
+
+.admissionHeading {
+    background-color: aquamarine;
+    text-align: center;
+    padding: 5px;
+    margin-top: 10px;
+    border: 2px solid rgb(109, 144, 107);
+    border-radius: 10px;
+}

@@ -1,0 +1,79 @@
+th,
+td {
+    word-wrap: break-word;
+    max-width: 50px;
+
+}
+
+table {
+
+    padding: 1rem;
+    align-items: center;
+    width: 100%;
+
+}
+
+#blankCol {
+    border: none;
+}
+
+img {
+    margin-top: 0px;
+    width: 130px;
+}
+
+.CatButton {
+    cursor: pointer;
+    margin-top: 10px;
+    border-radius: 10px;
+
+    padding: 12px;
+    /* font-weight: 800; */
+
+
+}
+
+
+.CatButton>p {
+    color: rgb(255, 145, 0);
+    font-size: 18px;
+    font-weight: 600;
+    background-color: rgb(233, 241, 241);
+    border-radius: 10px;
+    padding: 12px;
+    margin-bottom: 10px;
+}
+
+
+.infoContainer {
+    text-align: center;
+    margin-top: 10px;
+    max-width: 960px;
+    margin-inline: auto;
+
+}
+
+
+
+
+#heading {
+    background-color: rgb(39, 39, 39);
+    /* border-radius: 3px; */
+    border-start-end-radius: 5px;
+    border-start-start-radius: 5px;
+    width: 100%;
+    color: rgb(78, 25, 75);
+    margin-bottom: -8px;
+    background-color: rgb(244, 234, 255);
+    /* background-image: url(); */
+
+}
+
+#profileTable {
+    margin-top: -8px;
+}
+
+#printableDoc {
+    font-size: 12px;
+    min-width: 883px;
+}

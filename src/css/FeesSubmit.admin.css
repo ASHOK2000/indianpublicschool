@@ -1,0 +1,60 @@
+.dashboardHead {
+    display: flex;
+    width: 100%;
+    text-align: center;
+}
+
+
+.feesDashboard {
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.dashboardRow {
+    min-height: 10rem;
+    display: inline;
+    border: 1px solid rgb(217, 213, 213);
+    padding: 5px;
+}
+
+.dropdownClass {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    gap: 10px;
+    margin-top: 5px;
+
+}
+
+.feesForm {
+
+    border-right: 1px solid black;
+    margin-bottom: 10px;
+}
+
+.heading {
+    background-color: rgb(57, 220, 220);
+}
+
+/* .scrollbar {
+    overflow: scroll;
+} */
+
+.scrollbar::-webkit-scrollbar {
+    width: 6px;
+}
+
+.scrollbar::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.1);
+    background: rgba(0, 0, 0, 0.2);
+}
+
+/* custom colors  */
+.yearSelect {
+    max-width: fit-content;
+}
+
+.yearSelectHead {
+    display: flex;
+}

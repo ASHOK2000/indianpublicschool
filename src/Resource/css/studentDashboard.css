@@ -1,0 +1,114 @@
+.wlcmText {
+  font-size: 22px;
+  font-weight: 600;
+  font-style: bolder;
+  margin-bottom: 0px;
+  margin-top: auto;
+  bottom: 0;
+}
+
+body {
+  margin-top: 10px;
+}
+
+.welcomeText {
+  padding: 15px;
+  display: grid;
+}
+
+.welcome_Container {
+  background-color: blueviolet;
+  color: aliceblue;
+}
+
+.card_style {
+  background: rgb(129, 0, 181);
+  background: linear-gradient(133deg,
+      rgba(225, 173, 245, 0.302) 0%,
+      rgba(3, 17, 216, 0.035) 100%);
+  color: blueviolet;
+  font-size: 12px;
+  border-radius: 20px;
+  font-weight: 700;
+  padding: 10px 20px;
+  text-transform: uppercase;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  transition: all 0.2s ease-in-out;
+  border: 1px solid;
+  margin: 6px;
+}
+
+.card_style p {
+  margin-top: 5px;
+}
+
+#service-images {
+  width: 65px;
+  height: 70px;
+}
+
+.card_style:hover {
+  transform: scale(1.1);
+  /* transition: all .9s ease-out; */
+  cursor: pointer;
+  transition-duration: 100ms;
+  box-shadow: rgba(28, 87, 206, 0.25) 0px 50px 100px -20px,
+    rgba(238, 206, 206, 0.35) 0px 30px 60px -30px,
+    rgba(11, 103, 195, 0.35) 0px -2px 6px 0px inset;
+  border: 3px solid;
+  margin: 3px;
+
+}
+
+.notice-heading {
+  background-color: #365486;
+  font-size: larger;
+  font-weight: bolder;
+  border-top-left-radius: 9px;
+  border-top-right-radius: 9px;
+}
+
+.notice-heading p {
+  text-align: center;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.notice-box {
+  border: 2px solid rgb(89, 89, 89);
+  border-radius: 10px;
+  min-height: 18rem;
+}
+
+.notice-area {
+  background-color: rgb(242, 245, 245);
+  justify-content: center;
+  align-items: center;
+  display: grid;
+  /* max-height: 8rem; */
+  list-style: none;
+
+  /* list-style-type: upper-alpha; */
+}
+
+.notice-area a {
+  text-decoration: none;
+  font-size: smaller;
+}
+
+.serviceCards {
+  text-decoration: none;
+}
+
+.card_style img {
+  /* min-height: 20px; */
+  max-height: 60px;
+  max-width: 55px;
+}
+
+serviceCards>Col {
+  margin-top: 10px;
+}

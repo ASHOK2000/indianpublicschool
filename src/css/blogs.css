@@ -1,0 +1,17 @@
+.comingSoon {
+    /* background: rgb(221, 189, 203);
+    background: -moz-radial-gradient(circle, rgba(221, 189, 203, 0.3924543450192577) 0%, rgba(108, 105, 111, 0.10393893885679273) 27%, rgba(85, 88, 92, 0.22158599768032217) 100%);
+    background: -webkit-radial-gradient(circle, rgba(221, 189, 203, 0.3924543450192577) 0%, rgba(108, 105, 111, 0.10393893885679273) 27%, rgba(85, 88, 92, 0.22158599768032217) 100%);
+    background: radial-gradient(circle, rgba(221, 189, 203, 0.3924543450192577) 0%, rgba(108, 105, 111, 0.10393893885679273) 27%, rgba(85, 88, 92, 0.22158599768032217) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ddbdcb", endColorstr="#55585c", GradientType=1); */
+
+
+    min-height: 20rem;
+    text-align: center;
+}
+
+#textWelcome {
+    margin-top: 15rem;
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

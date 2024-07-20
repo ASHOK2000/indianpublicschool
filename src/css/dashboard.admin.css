@@ -1,0 +1,28 @@
+.list-group>Link {
+    text-decoration: none;
+}
+
+.dot,
+.dot1 {
+    height: 20px;
+    width: 20px;
+    background-color: #fe7446;
+    border-radius: 50%;
+    display: inline-block;
+    gap: 12px;
+}
+
+.dot1 {
+
+    margin-left: 5px;
+    border: solid 4px #739bdf;
+
+}
+
+.dot {
+    border: solid 4px #739bdf;
+}
+
+element.style {
+    background-color: #365486;
+}

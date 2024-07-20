@@ -1,0 +1,99 @@
+.aboutBackground {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='1450' height='800' preserveAspectRatio='none' viewBox='0 0 1450 800'%3e%3cg clip-path='url(%26quot%3b%23SvgjsClipPath1983%26quot%3b)' fill='none'%3e%3ccircle r='50.055' cx='341.79' cy='607.73' fill='url(%26quot%3b%23SvgjsLinearGradient1984%26quot%3b)'%3e%3c/circle%3e%3ccircle r='39.49' cx='1020.11' cy='321.14' fill='url(%26quot%3b%23SvgjsLinearGradient1985%26quot%3b)'%3e%3c/circle%3e%3ccircle r='69.22' cx='633.15' cy='261.61' fill='url(%26quot%3b%23SvgjsLinearGradient1986%26quot%3b)'%3e%3c/circle%3e%3ccircle r='31.655' cx='461.05' cy='407.82' fill='url(%26quot%3b%23SvgjsLinearGradient1987%26quot%3b)'%3e%3c/circle%3e%3ccircle r='67.6' cx='253.31' cy='54.86' fill='url(%26quot%3b%23SvgjsLinearGradient1988%26quot%3b)'%3e%3c/circle%3e%3ccircle r='75.57' cx='197' cy='231.64' fill='url(%26quot%3b%23SvgjsLinearGradient1989%26quot%3b)'%3e%3c/circle%3e%3ccircle r='24.205' cx='940.87' cy='737.1' fill='url(%26quot%3b%23SvgjsLinearGradient1990%26quot%3b)'%3e%3c/circle%3e%3c/g%3e%3cdefs%3e%3cclipPath id='SvgjsClipPath1983'%3e%3crect width='1450' height='800' x='0' y='0'%3e%3c/rect%3e%3c/clipPath%3e%3clinearGradient x1='241.68' y1='607.73' x2='441.9' y2='607.73' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1984'%3e%3cstop stop-color='%2384b6e0' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='rgba(51%2c 69%2c 133%2c 1)' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='1099.09' y1='242.15999999999997' x2='941.13' y2='400.12' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1985'%3e%3cstop stop-color='%23f29b7c' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='%237e6286' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='494.71' y1='261.61' x2='771.5899999999999' y2='261.61' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1986'%3e%3cstop stop-color='%2384b6e0' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='rgba(51%2c 69%2c 133%2c 1)' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='397.74' y1='407.82' x2='524.36' y2='407.82' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1987'%3e%3cstop stop-color='%2332325d' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='%23424488' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='118.11000000000001' y1='54.86' x2='388.51' y2='54.86' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1988'%3e%3cstop stop-color='%2384b6e0' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='rgba(51%2c 69%2c 133%2c 1)' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='45.860000000000014' y1='80.5' x2='348.14' y2='382.78' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1989'%3e%3cstop stop-color='%23e298de' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='rgba(70%2c 135%2c 134%2c 1)' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='892.46' y1='737.1' x2='989.28' y2='737.1' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1990'%3e%3cstop stop-color='%2332325d' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='%23424488' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3c/defs%3e%3c/svg%3e");
+}
+
+.homeSection {
+    min-height: 25rem;
+    text-align: center;
+    letter-spacing: 3px;
+    letter-spacing: 0.0625em;
+    background-color: rgb(221, 222, 224);
+    border-radius: 20px;
+    margin: 5rem;
+    padding: 20px;
+
+
+}
+
+.homeSection p {
+    font-size: 36px;
+    color: #34326c;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 550;
+}
+
+
+.aboutText {
+    letter-spacing: 3px;
+    letter-spacing: 0.0625em;
+    border-radius: 15px;
+    background-color: rgb(234, 233, 233);
+    opacity: 1;
+    padding: 20px;
+
+}
+
+.aboutText {
+    max-width: 50rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+
+
+/* CSS */
+.button-89 {
+    --b: 3px;
+    /* border thickness */
+    --s: .45em;
+    /* size of the corner */
+    --color: #373B44;
+
+    padding: calc(.5em + var(--s)) calc(.9em + var(--s));
+    color: var(--color);
+    --_p: var(--s);
+    background:
+        conic-gradient(from 90deg at var(--b) var(--b), #0000 90deg, var(--color) 0) var(--_p) var(--_p)/calc(100% - var(--b) - 2*var(--_p)) calc(100% - var(--b) - 2*var(--_p));
+    transition: .3s linear, color 0s, background-color 0s;
+    outline: var(--b) solid #0000;
+    outline-offset: .6em;
+    font-size: 16px;
+
+    border: 0;
+
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    text-decoration: none;
+}
+
+
+.button-89:hover,
+.button-89:focus-visible {
+    --_p: 0px;
+    outline-color: var(--color);
+    outline-offset: .05em;
+}
+
+.button-89:active {
+    background: var(--color);
+    color: #fff;
+}
+
+
+
+.AdmissionPara {
+    animation: fadeIn 3s ease-in-out;
+}
+
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}

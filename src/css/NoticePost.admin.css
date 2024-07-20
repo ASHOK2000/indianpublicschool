@@ -1,0 +1,15 @@
+.noticeHeading {
+    height: 8rem;
+    text-align: center;
+    padding: 5px;
+
+
+}
+
+.noticeHeading>h3 {
+    color: rgb(53, 10, 10);
+    color: linear-gradient(180deg, rgba(2, 0, 36, 0.4042190850949755) 0%, rgba(9, 9, 121, 0.2837709058232668) 30%, rgba(0, 212, 255, 0.29497538761598385) 51%, rgba(0, 212, 255, 0.2389529786523985) 92%);
+    padding: 20px;
+    font-size: 60px;
+    font-family: fantasy;
+}

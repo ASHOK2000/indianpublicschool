@@ -1,0 +1,25 @@
+.footer_background {
+
+    background: rgb(39, 0, 88);
+    background: linear-gradient(144deg, rgba(39, 0, 88, 1) 100%, rgba(140, 123, 251, 1) 100%);
+    font-weight: 600;
+    font-size: 18px;
+    color: aliceblue;
+    justify-content: space-around;
+
+
+}
+
+
+.back_ground_social {
+
+    background: rgb(10, 1, 60);
+    background: linear-gradient(49deg, rgba(10, 1, 60, 1) 0%, rgba(63, 2, 107, 1) 24%, rgba(130, 0, 177, 1) 49%, rgba(128, 3, 174, 0.9184384773735984) 57%, rgba(134, 0, 183, 0.9184384773735984) 95%);
+    color: aliceblue;
+    font-weight: 600;
+}
+
+.link-primary {
+    text-decoration: none;
+
+}

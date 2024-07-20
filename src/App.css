@@ -1,0 +1,15 @@
+body {
+  background: rgb(57, 140, 241);
+  background: -moz-linear-gradient(90deg, rgba(57, 140, 241, 0.06) 0%, rgba(167, 26, 230, 0.05) 24%, rgba(137, 108, 187, 0.05) 47%, rgba(113, 175, 152, 0.05) 70%, rgba(88, 242, 116, 0.04791652989320727) 89%, rgba(0, 212, 255, 0.05) 100%);
+  background: -webkit-linear-gradient(90deg, rgba(57, 140, 241, 0.05) 0%, rgba(167, 26, 230, 0.05) 24%, rgba(137, 108, 187, 0.05) 47%, rgba(113, 175, 152, 0.05) 70%, rgba(88, 242, 116, 0.04791652989320727) 89%, rgba(0, 212, 255, 0.05) 100%);
+  background: linear-gradient(90deg, rgba(57, 140, 241, 0.05) 0%, rgba(167, 26, 230, 0.05) 24%, rgba(137, 108, 187, 0.05) 47%, rgba(113, 175, 152, 0.05) 70%, rgba(88, 242, 116, 0.04791652989320727) 89%, rgba(0, 212, 255, 0.05) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#398cf1", endColorstr="#00d4ff", GradientType=1);
+
+
+
+
+
+
+
+
+}

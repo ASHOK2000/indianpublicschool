@@ -1,0 +1,25 @@
+.content-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  /* You can change this to 'space-between' or other values based on your preference */
+}
+
+/* Style for each content item */
+.content-item {
+  width: auto;
+  /* Adjust the width to fit 3 items in a row */
+  margin: 1px;
+  /* Add some margin for spacing */
+  padding: 5px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+
+
+*,
+*::before,
+*::after {
+  boxSizing: "border-box";
+}

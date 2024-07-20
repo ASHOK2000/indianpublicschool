@@ -1,0 +1,16 @@
+.receptHeading {
+  display: flex;
+
+  gap: 80px;
+  width: 100% !important;
+
+}
+
+.title {
+  text-align: center;
+  display: grid !important;
+  
+
+
+
+}
