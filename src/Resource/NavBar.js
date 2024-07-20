@@ -43,7 +43,7 @@ export default function NavBar() {
         <Navbar expand="lg">
           <div className="navImage">
             {/* {localStorage.clear()} */}
-            <Navbar.Brand href="/">
+            <Navbar.Brand href="/indianpublicschool">
               <div className="navbar_logo">
                 <Image
                   src={logoImage}
@@ -59,7 +59,7 @@ export default function NavBar() {
             id="basic-navbar-nav"
             className="nav_link  justify-content-end nav_links">
             <Nav className="">
-              <LinkContainer to="/">
+              <LinkContainer to="/indianpublicschool">
                 <Nav.Link className="navLinkText">HOME</Nav.Link>
               </LinkContainer>
 
