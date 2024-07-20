@@ -60,7 +60,9 @@ function App() {
         <Routes>
           {/* <Route path="/admin/dashboard" element={<AdminDashboard />} /> */}
           {/* <Route path="/student/dashboard" element={<StudentDashboard />} /> */}
-          {notLoggedIn && <Route path="/" element={<Home></Home>}></Route>}
+          {notLoggedIn && (
+            <Route path="/indianpublicschool" element={<Home></Home>}></Route>
+          )}
 
           <Route path="/About" element={<About />}></Route>
           <Route path="/admisson" element={<Admisson></Admisson>}></Route>
